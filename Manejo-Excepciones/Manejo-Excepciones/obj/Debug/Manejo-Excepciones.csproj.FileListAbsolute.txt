@@ -1,0 +1,7 @@
+C:\Users\tec21\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones\Manejo-Excepciones\obj\Debug\Manejo-Excepciones.csproj.AssemblyReference.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones\Manejo-Excepciones\obj\Debug\Manejo-Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones\Manejo-Excepciones\bin\Debug\Manejo-Excepciones.exe.config
+C:\Users\tec21\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones\Manejo-Excepciones\bin\Debug\Manejo-Excepciones.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones\Manejo-Excepciones\bin\Debug\Manejo-Excepciones.pdb
+C:\Users\tec21\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones\Manejo-Excepciones\obj\Debug\Manejo-Excepciones.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\Manejo-Excepciones\Manejo-Excepciones\Manejo-Excepciones\obj\Debug\Manejo-Excepciones.pdb
